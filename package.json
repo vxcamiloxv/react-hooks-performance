@@ -1,0 +1,24 @@
+{
+  "name": "react-hooks-performance",
+  "version": "1.0.0",
+  "description": "React hooks performance test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vxcamiloxv/react-hooks-performance.git"
+  },
+  "keywords": [
+    "test",
+    "react",
+    "hooks"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vxcamiloxv/react-hooks-performance/issues"
+  },
+  "homepage": "https://github.com/vxcamiloxv/react-hooks-performance#readme"
+}
