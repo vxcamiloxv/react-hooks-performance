@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "React hooks performance test",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/vxcamiloxv/react-hooks-performance.git"
@@ -21,9 +18,20 @@
     "url": "https://github.com/vxcamiloxv/react-hooks-performance/issues"
   },
   "homepage": "https://github.com/vxcamiloxv/react-hooks-performance#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "next build",
+    "start": "next dev",
+    "prod": "npm run build && next prod"
+  },
   "dependencies": {
     "next": "^9.5.2",
+    "next-compose-plugins": "^2.2.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.7.0",
+    "eslint-plugin-react": "^7.20.6"
   }
 }
