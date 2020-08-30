@@ -1,1 +1,0 @@
-{"ast":null,"code":"var __jsx = React.createElement;\nimport React from 'react';\n\nfunction ClassFunctional() {\n  return __jsx(React.Fragment, null, \"Will be functional\");\n}\n\nexport default ClassFunctional;","map":null,"metadata":{},"sourceType":"module"}

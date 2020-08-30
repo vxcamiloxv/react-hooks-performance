@@ -1,1 +1,0 @@
-{"ast":null,"code":"var __jsx = React.createElement;\nimport React from 'react';\n\nfunction Main() {\n  return __jsx(React.Fragment, null, \"Hello star wars\");\n}\n\nexport default Main;","map":null,"metadata":{},"sourceType":"module"}
